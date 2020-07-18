@@ -1,3 +1,11 @@
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-menu {display: block;}
 
+.container, .row{
+  width: 100%;
+}
+
+
+.top-sh{
+  size: 40px;
+}
